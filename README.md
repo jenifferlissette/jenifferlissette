@@ -1,2 +1,4 @@
 <h1 align="center">Hi, I'm Jeniffer 👋</h1>
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZna2gxNmtyYXE3YWxxaHBwMmpxdmxxdjVxdWU4dzJ6djFuN2FqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="waving hand" width="100"/>
+</p>
